@@ -3,18 +3,22 @@
 </p>
 
 ## 🖥️ Projeto
-Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
+Esse é um projeto para desenvolver uma cápsula do tempo, com ambiente Web, Server e Mobile, construída com React, Next.js, TailwindCSS e TypeSCript.
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
 
-- HTML
-- CSS
+- React
+- Next.js
+- TailwindCSS
+- TypeSCript
 - Git e Github
 
-## 🏷️ Layout 
-Você pode visualizar o layout do projeto através
-[desse link](https://www.figma.com/file/LLbCV4eWZ2RBEWEtN5rMPb/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)?type=design&t=a9jJBoKMz5DV34Ed-0)
-É necessário ter uma conta no [Figma](https://www.figma.com)
+## Observação
+O NLW tinha duas trilhas, a explorer e a ignite. Consegui concluir a explorer totalmente, mas a ignite, que é desse projeto, não consegui ver todas as aulas, mas futuramente vou tentar concluir esse projeto também.
+
+Foi muito aprendizado, não conhecia essas tecnologias utilizadas, mas fiquei muito empolgado em estudar mais sobre elas, pois facilitam bastante e otimizam o desenvolvimento dos sistemas.
+
+
 
 
